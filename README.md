@@ -23,3 +23,8 @@ The image below shows how the filters are set up for the table.
 * For the shape filter, the user needs to enter a shape. The options are circle, light, triangle, unknown, fireball, formation, other, sphere, disk, chevron, rectangle, cross, flash, changing, oval, cigar, teardrop and cylindar.
 
 <img width="1388" alt="Screen Shot 2022-08-17 at 3 46 48 PM" src="https://user-images.githubusercontent.com/106006911/185239977-7389587d-d823-4294-9599-7eb6137a7c75.png">
+
+
+## Summary
+
+One drawback of this design is that you need to look through the table to find what can be entered in the filters.  The table has limited data spanning two weeks. One improvement that could be made to the design is to add drop-down menus in the filters to be able to choose instead of search for options. Another improvement would be to add a clear filter button. This would also be more impressive if linked to another site or API that has data added regularly.
